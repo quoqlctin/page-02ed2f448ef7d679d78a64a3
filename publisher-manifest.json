@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "77ad99d45927a5aa7490497f",
+  "owner": "quoqlctin",
+  "repo": "page-02ed2f448ef7d679d78a64a3",
+  "title": "小白云(Little)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "02ed2f448ef7d679d78a64a3",
+      "a": "小白云(Little)",
+      "b": "2027最新官网",
+      "entity": "小白云(Little)",
+      "brand": "小白云(Little)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1f04b5113cc275b665a6d0d58867e293fd45607034ed9ba74b4a9f033bd18867",
+      "content": {
+        "primary_entity": "小白云(Little)",
+        "keyword1": "小白云(Little)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端：Windows、macOS、Android、iOS 与路由器各有适配版本，订阅链接导入即可使用。",
+          "AI_CLIENTS_TITLE": "按设备匹配客户端",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅后按文档配置，即可开始日常使用。",
+          "AI_CLOSING_TITLE": "按需选择，连接更省心",
+          "AI_DESCRIPTION": "，小白云(Little)以多档套餐覆盖个人与团队场景，从基础版到团队版可按流量、设备数量与节点类型灵活选择。基础版每月 100GB、3 台设备适合轻度使用；旗舰版每月 300GB、5 台设备并带 IPLC 专线优化；团队版每月 1000GB、20 台设备面向多人协作。客户端覆盖 Windows、macOS、Android、iOS 与路由器，订阅导入后即可按文档配置使用。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度快速做出选择。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台，按日常用量挑档。",
+          "AI_FEATURE_TITLE_1": "套餐按量分级",
+          "AI_FEATURE_TEXT_2": "手机、电脑与路由器可分别安装客户端，订阅链接在对应客户端中导入即可。",
+          "AI_FEATURE_TITLE_2": "多端订阅配置",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付更划算，如基础版 ¥150/年、旗舰版 ¥350/年。",
+          "AI_FEATURE_TITLE_3": "周期灵活可选",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，三步即可开始使用小白云(Little)。",
+          "AI_GUIDE_TITLE": "订阅使用三步",
+          "AI_HERO_INTRO": "小白云(Little)提供多种档位的海外加速服务，覆盖流媒体、游戏与日常办公场景。基础版、旗舰版与团队版在流量、设备数和节点类型上各有侧重，配合 Windows、macOS、Android、iOS 与路由器客户端，订阅导入即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "月付与年付自由切换",
+          "AI_HIGHLIGHT_2": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_3": "多平台客户端按需选择",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合轻度浏览与少量流媒体；旗舰版 ¥35/月提供 300GB 与 IPLC 专线优化；团队版 ¥85/月提供 1000GB 与 20 台设备。年付价分别为 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先确认主要用途是流媒体、游戏还是办公，再对照流量与设备数量要求。",
+          "AI_STEP_TITLE_1": "明确使用需求",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与节点类型，确认自己的设备是否在适配范围内。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档完成配置后即可连接使用。",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "小白云 多端加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小白云(Little)套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "日常浏览选基础版，100GB流量3台设备；常看流媒体或玩游戏选旗舰版，300GB流量5台设备；多人共享或跑大量数据选团队版，1000GB流量20台设备。",
+          "AI_FAQ_QUESTION_2": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "购买后在用户中心复制订阅链接，打开对应客户端，在订阅设置中粘贴链接并更新，节点列表出现后选择节点连接即可。",
+          "AI_FAQ_QUESTION_3": "一个账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台，超过数量可能导致连接中断，请按套餐限制使用。",
+          "AI_FAQ_QUESTION_4": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付150元，相当于月付的10个月；旗舰版年付350元；团队版年付850元。长期使用年付更划算。",
+          "AI_FAQ_QUESTION_5": "IPLC专线适用于什么场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版与团队版部分节点采用IPLC专线，适合对延迟敏感的游戏加速、视频会议与实时协作，普通网页浏览用基础线路即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qdrpo.cn",
+    "host": "qdrpo.cn"
+  },
+  "file_hashes": {
+    "index.html": "980d41f7620bd6647c2988b670f4ce3c660cb5df617391bc4debda77227778f3",
+    "sitemap.xml": "f95d2fb5437a0b1c7a6843bd48b8572d4dae7deb6e2713e7f241a7447b970044",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "de159b0764f7ba5f8584f5f9f989020d250dd82b619be0862ca901090320486a",
+    "robots.txt": "bf69e2ba414d8510e372ddd8eb01d6f0e17a2d31ed8bfff69182ce809883ccb8",
+    "a6d36139206d65d887238c9689db0ff4.txt": "411a813f074dcf79fad6665cb9e1a91e5c9833290cccaaf9cdebc524ff4186c5"
+  },
+  "revision": "abc8bb1ec5d480b6bb14410c63279a414e9e32101fc0f8f2807edda56c209e3e"
+}
